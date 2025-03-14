@@ -1,2 +1,2 @@
-# Teejay01
-Hi their, I'm Teejay
+# Ahmad01732
+# Hi there, I'm Ahmad! 👋  I am a passionate software developer with a keen interest in web development andcurrently learning new technologies and frameworks to expand my skill set. - 👯 I’m looking to collaborate on interesting projects that solve real-world problems. - 💬 Ask me about web development, JavaScript, and open-source contributions. - 📫 How to reach me: [ahmad012732@example.com](mailto:ahmad012732@example.com)  ## 🛠️ Technologies & Tools - **Languages**: JavaScript, TypeScript, Python, HTML, CSS - **Frameworks**: React, Node.js, Express - **Tools**: Git, GitHub, VS Code, Docker  ## 📈 GitHub Stats ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad012732&show_icons=true&theme=radical)  ## 🤝 Let's Connect - [LinkedIn](https://www.linkedin.com/in/ahmad012732/) - [Twitter](https://twitter.com/ahmad012732)
